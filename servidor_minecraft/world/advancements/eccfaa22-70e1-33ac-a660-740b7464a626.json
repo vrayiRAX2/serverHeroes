@@ -1,0 +1,129 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-11-27 21:45:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-11-27 21:45:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-11-27 21:45:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "formidulus:root": {
+    "criteria": {
+      "tick": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-11-27 21:45:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-11-27 21:45:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

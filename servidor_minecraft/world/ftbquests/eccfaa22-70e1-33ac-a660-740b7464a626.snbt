@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eccfaa2270e133aca660740b7464a626"
+	name: "vrayiRAX#eccfaa22"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3247c3f6ffd64f1b9b1c14941960bda6"
+	name: "benyi_139#3247c3f6"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "3247c3f6-ffd6-4f1b-9b1c-14941960bda6"
+	type: "player"
+	player_name: "benyi_139"
+	ranks: {
+		3247c3f6-ffd6-4f1b-9b1c-14941960bda6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "benyi_139"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5966"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

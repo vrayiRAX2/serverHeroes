@@ -1,0 +1,17 @@
+{
+	id: "2ef24a3b-228d-42c3-a56f-31f9396fa89e"
+	type: "player"
+	player_name: "vrayiRAX"
+	ranks: {
+		2ef24a3b-228d-42c3-a56f-31f9396fa89e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "vrayiRAX"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5968FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
